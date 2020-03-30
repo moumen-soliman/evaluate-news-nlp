@@ -29,3 +29,4 @@ Remember that once you clone, you will still need to install everything:
 
 To run dev server `npm run build-dev`
 
+To run test `npm run test`
